@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Marobo's GitHub stats]((https://github-readme-stats-sigma-five.vercel.app/api?username=marobo&show_icons=true&theme=tokyonight))](https://github.com/marobo/marobo)
-
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marobo&show_icons=true&theme=tokyonight" />
+</p>
 <!--
 **marobo/marobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
