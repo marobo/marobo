@@ -34,21 +34,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marobo&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marobo&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marobo&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-- 🚀 **Project Name 1** – Short description of what it does  
-- 📱 **Project Name 2** – Short description  
-- 🌐 **Project Name 3** – Short description  
+- 🚀 **House Estimator** – Application for calculate materials of house construction and electrical loads.
+- 📱 **Technical Documentation** – Blogs and sharing documentation of web development. 
+- 🌐 **Kaerlista** – A platform for Timorese community to easily collecting item for cultural ceremonies events.
 
-*(Replace these with your real projects later)*
 
 ---
 
@@ -56,7 +53,7 @@
 
 - 🌐 Portfolio: *https://www.onorio.dev*
 - 📧 Email: *onorio.dja@gmail.com*
-- 💼 LinkedIn: *(https://www.linkedin.com/in/onorio-de-jesus-afonso-984878141/)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/onorio-de-jesus-afonso-984878141/*
 
 ---
 
