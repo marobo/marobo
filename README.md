@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Marobo's GitHub stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marobo&show_icons=true&theme=tokyonight&cache_seconds=1800))](https://github.com/marobo/marobo)
+[![Marobo's GitHub stats](![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=marobo&show_icons=true&theme=tokyonight))](https://github.com/marobo/marobo)
 
 
 <!--
