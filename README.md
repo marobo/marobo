@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋 </h1>
 <p>
-  I'm an ICT at Catalpa International. Help teams solve IT problems, support digital tools, and help new users getting started. I can code little things that make people smile. Check out my featured projects below.
+  I'm an ICT at Catalpa International. Help teams solve IT problems, support digital tools, and help new users getting started. I can code little things that make people smile. Check out my personal featured projects below.
 </p>
 
 ---
